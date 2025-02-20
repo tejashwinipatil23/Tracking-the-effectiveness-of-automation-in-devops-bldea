@@ -1,0 +1,4 @@
+Build Pipeline|Success|150
+Unit Testing|Failed|75
+Deployment|Success|225
+Security Scan|Success|120
